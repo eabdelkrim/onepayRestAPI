@@ -1,4 +1,4 @@
-# onepayRestAPI
+# onepay-kata
 # Exercice OnePay - Français - Version 2.0
 
 ## Enoncé
